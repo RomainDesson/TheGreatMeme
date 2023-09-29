@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thegreatmeme-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thegreatmeme-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thegreatmeme-service-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thegreatmeme-service-images" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thegreatmeme-service-memes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thegreatmeme-service-users" vcs="Git" />
+  </component>
+</project>
